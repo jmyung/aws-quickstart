@@ -1,6 +1,6 @@
 ![AWS Quick Start for Kubernets](images/banner.jpg)
 
-# Heptio AWS Quickstart
+# Heptio AWS Quickstart 1
 
 [<img
 src="https://raw.githubusercontent.com/cncf/artwork/master/kubernetes/certified-kubernetes/1.10/color/certified-kubernetes-1.10-color.png"
@@ -144,4 +144,3 @@ Some notable files in this directory:
   file does not install the Kubernetes binaries, those are baked into the AMI.
 - `calico.yaml`, `weave.yaml`: These are networking add-ons which are applied
   with `kubectl` by the master after the Kubernetes cluster is initialized.
-
