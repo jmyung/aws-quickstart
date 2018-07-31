@@ -25,7 +25,7 @@ Description: 'QS(5042) Kubernetes AWS CloudFormation Template: Create a Kubernet
   template creates four Amazon EC2 instances with default settings. You will
   be billed for the AWS resources used if you create a stack from this template.
   **SUPPORT** Please visit http://jump.heptio.com/aws-qs-help for support.
-  **NEXT STEPS** Please visit http://jump.heptio.com/aws-qs-next. '
+  **NEXT STEPS** Please visit http://jump.heptio.com/aws-qs-next.'
 
 # The Metadata tells AWS how to display the parameters during stack creation
 Metadata:
